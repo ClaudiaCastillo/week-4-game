@@ -154,7 +154,7 @@ function selectDefender()
       console.log(" *** enemies HP value " + characterValue);
 
       $("#enemies").empty();
-      $("#defender").empty();
+      
       
       for (var i1 = 0; i1 < characters.length; i1++) {
 
