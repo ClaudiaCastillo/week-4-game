@@ -1,2 +1,5 @@
-# week-4-game
-Start Wars Challenge Game
+# Star Wars Game Project
+
+This Project is a fun and interactive game for web browsers. The app must dynamically update the HTML pages with the jQuery library.
+
+
